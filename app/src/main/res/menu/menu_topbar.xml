@@ -2,31 +2,35 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item android:title="@string/arquivo"
-        android:icon="@drawable/baseline_archive"
+    <item
         android:id="@+id/mArquivo"
-        app:showAsAction="ifRoom"/>
+        android:icon="@drawable/baseline_archive"
+        android:title="@string/arquivo"
+        app:showAsAction="ifRoom" />
 
-    <item android:title="@string/sair"
-        android:icon="@drawable/baseline_exit_to_app"
+    <item
         android:id="@+id/mSair"
-        app:showAsAction="ifRoom"/>
+        android:icon="@drawable/baseline_exit_to_app"
+        android:title="@string/sair"
+        app:showAsAction="ifRoom" />
 
-    <item android:title="@string/inserir"
-        android:icon="@drawable/baseline_insert_link"
+    <item
         android:id="@+id/mInserir"
-        app:showAsAction="ifRoom"/>
+        android:icon="@drawable/baseline_insert_link"
+        android:title="@string/inserir"
+        app:showAsAction="ifRoom" />
 
-    <item android:title="@string/alterar"
-        android:icon="@drawable/baseline_update"
+    <item
         android:id="@+id/mAlterar"
-        app:showAsAction="ifRoom"/>
+        android:icon="@drawable/baseline_update"
+        android:title="@string/alterar"
+        app:showAsAction="ifRoom" />
 
-    <item android:title="@string/pesquisar"
-        android:icon="@drawable/baseline_search"
+    <item
         android:id="@+id/mPesquisar"
-        app:showAsAction="ifRoom"/>
-
+        android:icon="@drawable/baseline_search"
+        android:title="@string/pesquisar"
+        app:showAsAction="ifRoom" />
 
 
 </menu>

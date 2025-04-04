@@ -5,4 +5,9 @@
     <string name="inserir">Inserir</string>
     <string name="sair">Sair</string>
     <string name="arquivo">Arquivo</string>
+    <string name="compatilhar">Compatilhar</string>
+    <string name="favoritar">Favoritar</string>
+    <string name="status">Status</string>
+    <string name="conversar">Conversar</string>
+    <string name="download">Download</string>
 </resources>
